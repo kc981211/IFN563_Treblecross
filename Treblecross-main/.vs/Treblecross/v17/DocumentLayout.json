@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|c:\\users\\yikyu\\onedrive\\\u6587\u4EF6\\master of it\\git-repo\\ifn563 treblecross\\treblecross\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\gameoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|solutionrelative:gameoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\programengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|solutionrelative:programengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yikyu\\AppData\\Local\\Temp\\Rar$DIa27112.28776\\JobDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\gamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF575F0-4040-48EC-BBC3-B0DF1C326350}|Treblecross.csproj|solutionrelative:gamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobDemo.cs",
+              "DocumentMoniker": "C:\\Users\\yikyu\\AppData\\Local\\Temp\\Rar$DIa27112.28776\\JobDemo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa27112.28776\\JobDemo.cs",
+              "ToolTip": "C:\\Users\\yikyu\\AppData\\Local\\Temp\\Rar$DIa27112.28776\\JobDemo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa27112.28776\\JobDemo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:10:06.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:23:54.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOperator.cs",
+              "DocumentMoniker": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\GameOperator.cs",
+              "RelativeDocumentMoniker": "GameOperator.cs",
+              "ToolTip": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\GameOperator.cs",
+              "RelativeToolTip": "GameOperator.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAxwDUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:23:59.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv0IAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:23:55.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameFile.cs",
+              "DocumentMoniker": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\GameFile.cs",
+              "RelativeDocumentMoniker": "GameFile.cs",
+              "ToolTip": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\GameFile.cs",
+              "RelativeToolTip": "GameFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:23:51.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramEngine.cs",
+              "DocumentMoniker": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\ProgramEngine.cs",
+              "RelativeDocumentMoniker": "ProgramEngine.cs",
+              "ToolTip": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\ProgramEngine.cs",
+              "RelativeToolTip": "ProgramEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:21:57.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:18:48.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yikyu\\OneDrive\\\u6587\u4EF6\\Master of IT\\git-repo\\IFN563 Treblecross\\Treblecross\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:08:24.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
